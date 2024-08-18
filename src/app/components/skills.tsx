@@ -39,7 +39,7 @@ HTML is the standard markup language for creating Web pages
 HTML describes the structure of a Web page
 HTML consists of a series of elements
 HTML elements tell the browser how to display the content
-HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+HTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc.
           </p>
           <a href='https://www.w3schools.com/html/default.asp' className="mt-3 text-indigo-500 inline-flex items-center">
             Learn More
@@ -102,7 +102,7 @@ External stylesheets are stored in CSS files
             Javascript
           </h2>
           <p className="leading-relaxed text-base">
-          JavaScript is the world's most popular programming language.
+          JavaScript is the worlds most popular programming language.
 
 JavaScript is the programming language of the Web.
 
@@ -143,7 +143,7 @@ This tutorial will teach you JavaScript from basic to advanced
 
 This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
 
-TypeScript being a "Syntactic Superset" means that it shares the same base syntax as JavaScript, but adds something to it.
+TypeScript being a Syntactic Superset means that it shares the same base syntax as JavaScript, but adds something to it.
           </p>
           <a href='https://www.w3schools.com/typescript/index.php' className="mt-3 text-indigo-500 inline-flex items-center">
             Learn More
@@ -175,7 +175,7 @@ TypeScript being a "Syntactic Superset" means that it shares the same base synta
           <p className="leading-relaxed text-base">
           Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
           Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more
-          Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.
+          Whether you are an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.
           </p>
 
           <a href='https://nextjs.org/docs' className="mt-3 text-indigo-500 inline-flex items-center">

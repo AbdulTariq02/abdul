@@ -33,7 +33,7 @@ const Project = () => {
               WEATHER
             </h1>
             <p className="leading-relaxed">
-            This is the project which I've created for those who check the weather.
+            This is the project which I have created for those who check the weather.
             </p>
             <Link href={"https://my-r05mxb70h-abdul-wahabs-projects-c8c7f4b8.vercel.app/"}>
             <p className="leading-relaxed text-blue-500 hover:underline">

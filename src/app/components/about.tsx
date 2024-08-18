@@ -34,7 +34,7 @@ const About = () => {
             <rect width={20} height={20} x={2} y={2} rx={5} ry={5} />
             <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
           </svg>
-  </a> <a href="#" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
+  </a> <a href="https://www.linkedin.com/in/mohammad-ammar-9a716b20b/" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
   <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0} className="w-11 h-11 flex items-center justify-center hover:animate-pulse " viewBox="0 0 24 24">
             <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z" />
             <circle cx={4} cy={4} r={2} stroke="none" />
@@ -63,17 +63,17 @@ const About = () => {
       </h2>
       <p className="leading-relaxed text-xl capitalize font-serif mb-5"> this is my best friend👬and this is a good web developer for make a beautiful websites </p>
       <div>
-  <a href="#" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-insta" />
+  <a href="https://www.instagram.com" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-insta" />
   <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-11 h-11 flex items-center justify-center hover:animate-pulse" viewBox="0 0 24 24">
             <rect width={20} height={20} x={2} y={2} rx={5} ry={5} />
             <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
           </svg>
-  </a> <a href="#" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
+  </a> <a href="https://www.linkedin.com/in/sufiyan-jawed-48500a29b/" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
   <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0} className="w-11 h-11 flex items-center justify-center hover:animate-pulse " viewBox="0 0 24 24">
             <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z" />
             <circle cx={4} cy={4} r={2} stroke="none" />
           </svg>
-  </a><a href="#" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-facebook" />
+  </a><a href="https://www.facebook.com/profile.php?id=61552311325278" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-facebook" />
   <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-10 h-10 hover:animate-pulse" viewBox="0 0 24 24">
             <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
           </svg></a>
@@ -97,17 +97,19 @@ const About = () => {
       </h2>
       <p className="leading-relaxed text-xl capitalize font-serif mb-5"> this is my best sister👬and this is a good web developer for make a beautiful websites </p>
       <div>
-  <a href="#" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-insta" />
+  <a href="https://www.instagram.com/maryamtariq142/" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-insta" />
   <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-11 h-11 hover:animate-pulse flex items-center justify-center " viewBox="0 0 24 24">
             <rect width={20} height={20} x={2} y={2} rx={5} ry={5} />
             <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01" />
           </svg>
-  </a> <a href="https://www.linkedin.com/in/maryam-tariq-6a95ba279" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
+  </a> 
+  <a href="https://www.linkedin.com/in/maryam-tariq-0764492b1/" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-linkedin" />
   <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={0} className="w-11 h-11 hover:animate-pulse flex items-center justify-center " viewBox="0 0 24 24">
             <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z" />
             <circle cx={4} cy={4} r={2} stroke="none" />
           </svg>
-  </a><a href="https://www.facebook.com/profile.php?id=100092578890945" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-facebook" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61552041806469" className="w-14 h-14 rounded-full border-cyan-500 border text-stone-500 bg-cyan-500 hover:text-white mx-1 pt-1 inline-block"><i className="fa fa-facebook" />
   <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-10 h-10 hover:animate-pulse" viewBox="0 0 24 24">
             <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" />
           </svg></a>
